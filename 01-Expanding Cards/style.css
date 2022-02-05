@@ -24,7 +24,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   height: 80vh;
-  border-radius: 50px;
+  border-radius: 20px;
   color: #fff;
   cursor: pointer;
   flex: 0.5;
@@ -43,7 +43,7 @@ body {
 }
 
 .panel.active {
-  flex: 5;
+  flex: 3;
 }
 
 .panel.active h3 {
